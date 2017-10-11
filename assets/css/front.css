@@ -1,0 +1,30 @@
+.ppw_layout_1_description {
+    position: absolute;
+    top: 0%;
+    width: auto;
+    height: fit-content;
+    background: rgba(0, 0, 0, 0.6);
+    color: #ffffff;
+    z-index: 99999;
+    padding: 5px;
+}
+
+.ppw_layout_1 {
+    position: relative;
+}
+
+.column-2 {
+
+}
+
+.left-column {
+    width: 50%;
+    float: left;
+}
+
+.right-column {
+    float: right;
+    width: 50%;
+    margin: 0;
+    padding: 0;
+}
